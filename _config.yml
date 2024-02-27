@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Tom Huix
+title: <span style="color:blue">some *blue* text</span>.
 
 # Your name to show in the footer
 author: Tom Huix
