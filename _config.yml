@@ -22,10 +22,10 @@ author: Tom Huix
 navbar-links:
   About me: "aboutme"
   Publications: "publications"
+  CV: ""
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -33,14 +33,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "IMG_0295.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+# title-img: "IMG_0295.jpg"
 
 
 #####################################
@@ -102,7 +102,7 @@ share-links-active:
 # url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+title-on-all-pages: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -125,7 +125,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Tom Huix"
 
 ######################################
 # --- Colours / background image --- #
@@ -133,17 +133,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+navbar-col: "#2F4B26"
+navbar-text-col: "#E4D6A7"
+navbar-border-col: "#628395"
+page-col: "#E4D6A7"
+text-col: "#628395"
+link-col: "#62839"
+hover-col: "#628395"
 footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-text-col: "#E4D6A7"
+footer-link-col: "#628395"
+footer-hover-col: "#628395"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
