@@ -20,7 +20,8 @@ author: Tom Huix
 ###############################################
 
 navbar-links:
-  Publications: "aboutme"
+  About me: "aboutme"
+  Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
