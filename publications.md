@@ -13,4 +13,3 @@ subtitle: Most of my publications can be found on my <a href="https://scholar.go
 - <b> Tight Regret and Complexity Bounds for Thompson Sampling via Langevin Monte Carlo </b>. T. Huix, M. Zhang, A. Durmus. <a href="https://proceedings.mlr.press/v206/huix23a/huix23a.pdf">[Paper]</a>
 
 - <b> VITS: Variational Inference Thomson Sampling for contextual bandits </b>. T. Huix, P. Clavier, A. Durmus. <a href="https://arxiv.org/pdf/2307.10167">[Paper]</a>
-## 
