@@ -139,11 +139,11 @@ navbar-border-col: "#2F4B26"
 page-col: "#F5F0E0"
 text-col: "#22292F"
 link-col: "#628395"
-hover-col: "#FF0000"
+hover-col: "#628395"
 footer-col: "#2F4B26"
-footer-text-col: "#2F4B26"
-footer-link-col: "#2F4B26"
-footer-hover-col: "#2F4B26"
+footer-text-col: "#F5F0E0"
+footer-link-col: "##628395"
+footer-hover-col: "#628395"
 
 # vert: #2F4B26
 # beige: #F5F0E0
