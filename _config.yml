@@ -23,9 +23,6 @@ navbar-links:
   About me: "aboutme"
   Publications: "publications"
   CV: ""
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
