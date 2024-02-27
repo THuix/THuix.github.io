@@ -102,7 +102,7 @@ share-links-active:
 # url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+title-on-all-pages: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -125,7 +125,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "Tom,Huix"
+keywords: "Tom Huix"
 
 ######################################
 # --- Colours / background image --- #
@@ -137,11 +137,11 @@ navbar-col: "#2F4B26"
 navbar-text-col: "#E4D6A7"
 navbar-border-col: "#DDDDDD"
 page-col: "#E4D6A7"
-text-col: "#404040"
+text-col: "#628395"
 link-col: "#008AFF"
 hover-col: "#628395"
 footer-col: "#EAEAEA"
-footer-text-col: "#E4D6A7"
+footer-text-col: "#2F4B26"
 footer-link-col: "#404040"
 footer-hover-col: "#628395"
 
