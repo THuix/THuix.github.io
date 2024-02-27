@@ -134,16 +134,20 @@ keywords: "Tom Huix"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#2F4B26"
-navbar-text-col: "#E4D6A7"
-navbar-border-col: "#628395"
-page-col: "#E4D6A7"
-text-col: "#628395"
-link-col: "#62839"
+navbar-text-col: "#F5F0E0"
+navbar-border-col: "#2F4B26"
+page-col: "#F5F0E0"
+text-col: "#22292F"
+link-col: "#628395"
 hover-col: "#628395"
-footer-col: "#EAEAEA"
-footer-text-col: "#E4D6A7"
+footer-col: "#2F4B26"
+footer-text-col: "#F5F0E0"
 footer-link-col: "#628395"
 footer-hover-col: "#628395"
+
+# vert: #2F4B26
+# beige: #F5F0E0
+# bleu: #628395
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
