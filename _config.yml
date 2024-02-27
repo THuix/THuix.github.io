@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: <span style="color:blue">some *blue* text</span>.
+title: Tom Huix
 
 # Your name to show in the footer
-author: Tom Huix
+author: <span style="color:#628395">Tom Huix</span>.
 
 ###############################################
 # --- List of links in the navigation bar --- #
