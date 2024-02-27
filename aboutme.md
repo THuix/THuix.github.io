@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tom Huix
+title: <span style="color:#628395">Tom Huix</span>
 subtitle: About me
 ---
 
