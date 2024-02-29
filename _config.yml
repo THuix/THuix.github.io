@@ -22,7 +22,7 @@ author: Tom Huix
 navbar-links:
   About me: "aboutme"
   Publications: "publications"
-  CV: <a href="cv.pdf">CMAP (Ecole Polytechnique)</a>
+  CV: "https://github.com/THuix/THuix.github.io/blob/master/cv.pdf"
 
 ################
 # --- Logo --- #
