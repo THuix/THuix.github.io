@@ -22,7 +22,7 @@ author: Tom Huix
 navbar-links:
   About me: "aboutme"
   Publications: "publications"
-  CV: "cv"
+  CV: "https://THuix.github.io/cv.pdf"
 
 ################
 # --- Logo --- #
