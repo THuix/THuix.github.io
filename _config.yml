@@ -23,9 +23,6 @@ navbar-links:
   About me: "aboutme"
   Publications: "publications"
   CV: ""
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -33,14 +30,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "IMG_0295.jpg"
+avatar: "img.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-# title-img: "IMG_0295.jpg"
+# title-img: "img.jpg"
 
 
 #####################################
@@ -125,7 +122,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Tom Huix"
+keywords: "Tom Huix, Tom, Huix"
 
 ######################################
 # --- Colours / background image --- #
@@ -134,16 +131,20 @@ keywords: "Tom Huix"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#2F4B26"
-navbar-text-col: "#E4D6A7"
-navbar-border-col: "#628395"
-page-col: "#E4D6A7"
-text-col: "#628395"
-link-col: "#62839"
+navbar-text-col: "#F5F0E0"
+navbar-border-col: "#2F4B26"
+page-col: "#F5F0E0"
+text-col: "#22292F"
+link-col: "#628395"
 hover-col: "#628395"
-footer-col: "#EAEAEA"
-footer-text-col: "#E4D6A7"
+footer-col: "#2F4B26"
+footer-text-col: "#F5F0E0"
 footer-link-col: "#628395"
 footer-hover-col: "#628395"
+
+# vert: #2F4B26
+# beige: #F5F0E0
+# bleu: #628395
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
