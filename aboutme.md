@@ -4,7 +4,7 @@ title: <span style="color:#628395">Tom Huix</span>
 subtitle: About me
 ---
 
-<style>body {text-align: right}</style>
+<p style='text-align: justify;'> Your Text </p>
 
 
 
